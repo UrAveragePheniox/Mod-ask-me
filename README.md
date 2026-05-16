@@ -1,4 +1,4 @@
-This is the mod ask me area where you can ask me about my mods!
+This is the mod ask me area where you can ask me about my mods and modpacks!
 
 Rules for making an issue:
 
