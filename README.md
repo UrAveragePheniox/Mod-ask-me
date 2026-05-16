@@ -11,3 +11,7 @@ Please tell me what mod this issue is on (Can't help if I dont know where the is
 If you know an issue isn't on my side when it comes to compats, dont make an issue here (Use the other mods repo!)
 
 Thats it!
+
+Current mods:
+https://modrinth.com/mod/glass-wrecking-ball
+(If one of my mods is uploaded to a website that is not modrinth please let me know as it is most likely stolen.)
